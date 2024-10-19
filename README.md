@@ -8,7 +8,7 @@ Desenvolvi projetos de ETL, criei datamarts e datawarehouses, além de relatóri
 Atualmente, estou me aprofundando em Python com foco em automações RPA, web scraping e desenvolvimento backend.
 
 ## 🎯 Minha Missão
-Transformar dados em soluções analíticas que gerem impacto positivo. Envolvido com processos de dados, desde a extração e transformação até a automação RPA, busco otimizar operações e garantir a qualidade das informações para decisões eficazes.
+Transformar dados em soluções analíticas que gerem resultados positivos, atuando em todas as etapas do ciclo de dados: da extração e transformação à automação (RPA), análise e otimização de operações. Comprometido em assegurar a qualidade das informações para decisões estratégicas e mais eficazes.
 
 Com determinação, criatividade e uma sede constante de aprendizado, aplico minhas habilidades em diversas tecnologias para enfrentar desafios analíticos e inovadores. Estou aberto a novas conexões e parcerias para colaborar em iniciativas transformadoras.
 
