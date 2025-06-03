@@ -1,5 +1,5 @@
 ## 🙋‍♂️ Sobre mim
-Olá! Meu nome é Ronie Souza, tenho 33 anos e sou analista de BI. Trabalhei por 9 anos no Hospital Mboi Mirim, onde a análise de dados era parte essencial da gestão do almoxarifado, atuando como líder e analista de estoque. Nos últimos três anos, estou trabalhando integralmente como analista de BI.
+Olá! Meu nome é Ronie Souza, tenho 34 anos e sou analista de BI. Trabalhei por 9 anos no Hospital Mboi Mirim, onde a análise de dados era parte essencial da gestão do almoxarifado, atuando como líder e analista de estoque. Nos últimos três anos, estou trabalhando integralmente como analista de BI.
 
 Desenvolvi projetos de ETL, criei datamarts e datawarehouses, além de relatórios e dashboards para diversas áreas de negócio. Tenho experiência no gerenciamento de bancos de dados, focando na performance e auxiliando programadores na construção de queries e tuning para melhorias de desempenho. Atualmente, estou me aprofundando em Python com foco em automações RPA, web scraping e desenvolvimento backend.
 
